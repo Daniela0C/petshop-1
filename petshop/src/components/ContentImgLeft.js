@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap'
 
 function ContentImgLeft({imagem, textoImagem, texto}) {
   return (
-    <Container >
+    <Container className='pb-5'>
         <Row>
             <Col lg='6' md='6' sm='12'>
                 <img src={imagem} alt={textoImagem} />
@@ -12,6 +12,7 @@ function ContentImgLeft({imagem, textoImagem, texto}) {
                 <p>{texto}</p>
             </Col>
         </Row>
+        
     </Container>
   )
 }
