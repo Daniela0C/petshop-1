@@ -99,6 +99,12 @@ input[type=submit]{
   text-align: center;
 }
 
-.bannerAdestramento img{
-  width: 100%;
+.fotosLinha {
+  display: flex;
+  justify-content: center;
+}
+
+.fotosLinha img{
+  width: 95%;
+  height: 80%;
 }
