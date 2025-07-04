@@ -59,7 +59,7 @@ function Adestramento() {
 
       <Container >
         <Row>
-          <Col className='fotosLinha'>
+          <Col className='imgAdestramento'>
             {
               photos.map((photo) =>(
                 <div key={photo.id}>

@@ -19,7 +19,7 @@ function BanhoTosa(){
 
             <CallToAction texto='PET CARE'/>
 
-             <ContentImgRight imagem={vacina} textoImagem='cachorro vacinado' texto='Donec feugiat eros ac aliquet dapibus. Nullam nisl augue,
+            <ContentImgRight imagem={vacina} textoImagem='cachorro vacinado' texto='Donec feugiat eros ac aliquet dapibus. Nullam nisl augue,
              interdum in convallis non, accumsan eu massa. Ut suscipit orci urna, vel cursus turpis mattis vel. Integer at dapibus dolor. Quisque 
              iaculis, nunc et mollis gravida, dui erat dapibus ex, et sagittis purus urna a odio. Maecenas quis nisl turpis. Nullam condimentum urna 
              et urna efficitur posuere. Aliquam tincidunt quam felis, vitae mattis nibh vulputate ut. Etiam nec ex mattis risus dignissim mollis 

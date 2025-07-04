@@ -99,12 +99,13 @@ input[type=submit]{
   text-align: center;
 }
 
-.fotosLinha {
+.imgAdestramento, .img-hotel{
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
-.fotosLinha img{
-  width: 95%;
-  height: 80%;
+.imgAdestramento img{
+  width: 200px;
+  height: 90%;
 }
